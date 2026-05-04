@@ -7,7 +7,15 @@
 
 - 📫 Você me encontra pelo e-mail: **leandrosabino08@gmail.com.**
 
-- 📄 Epicteto já dizia que era impossível para alguém aprender o que acha que já sabe. Sou movido por uma constante curiosidade sobre a tecnologia e como o poder dela transforma o mundo. Acredito que novas dúvidas geram novos questionamentos que levam a novos insights. Atualmente estou cursando Engenharia Elétrica na UFS com participação em desenvolvimento de projetos que relacionam temas como reconhecimento de fala e Libras. Na universidade, descobri meu fascínio pelo mundo dos dados e como eles podem ser usados para gerar respostas e auxiliar em tomadas de decisão.
+Profissional com experiência em Business Intelligence, Power BI e análise de dados, atuando no desenvolvimento de soluções analíticas para transformar dados em informações relevantes ao negócio.
+
+Vivência na construção de dashboards gerenciais, estruturação de indicadores, modelagem de dados, criação de medidas DAX, tratamento de dados no Power Query, automação de rotinas e sustentação de relatórios publicados.
+
+Perfil orientado à resolução de problemas, melhoria de processos, qualidade da informação e geração de insights para apoiar a tomada de decisão em diferentes áreas de negócio.
+
+Atualmente tenho trabalho em projetos voltados à ciência de dados e suas implicações na resolução de problemas.
+
+Áreas de interesse: Ciência de Dados, Análise de Dados.
 
 - ⚡ Sou apaixonado por música clássica: **Adoro tocar piano.**
 
